@@ -1,7 +1,7 @@
-Ticketing System implementation using Tornado Web Server
+<b>Ticketing System implementation using Tornado Web Server</b>
 
-Author: Elaheh Toulabi 
+<b>Author:</b> Elaheh Toulabi 
 
-Language: Python 2.7
+<b>Language:</b> Python 2.7
 
 P
